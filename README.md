@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently following an intensive AI Data Science Bootcamp in BeCode ...
+- 🌱 I’m currently learning all the aspects of AI, machine learning, and deep learning ...
+
 <!--
 **arlene14ko/arlene14ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
