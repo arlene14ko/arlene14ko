@@ -1,10 +1,36 @@
 ### Hi there 👋
 
+#### I'm a Junior Data scientist working in Antwerp, Belgium.
 
-- 🔭 I’m currently following an intensive AI Data Science Bootcamp in BeCode ...
-- 🌱 I’m currently learning all the aspects of AI, machine learning, and deep learning ...
-- 💬 I’m looking for a company where I can show and enhance my skills  ...
-- 📫 How to reach me: You can send me an email at arlene14ko@gmail.com  ...
+##### NOW
+
+- ✨ Recently co-created a machine learning model to predict if an industrial machine will malfunction using sound. (Check my repos!)
+- 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
+
+##### BIO
+
+- 🏢 I'm currently following an intensive **Artificial Intelligence** training and at **Becode.org**
+- ⚙️ I use daily: `python`, `sci-kit learn`, `pandas`,`numpy`
+- 🌍 I'm mostly active within the **Python and Machine Learning Community**
+- 🌱 Learning all about **Data Science and Machine learning**
+- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**
+- 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
+- ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
+
+<!--
+**RolyVy/RolyVy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **arlene14ko/arlene14ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
