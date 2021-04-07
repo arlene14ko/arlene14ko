@@ -13,7 +13,7 @@
 - ⚙️ I use daily: `python`, `sci-kit learn`, `flask`,`pandas`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Science and Machine learning**
-- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**
+- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **Model deployment**
 - 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
 
