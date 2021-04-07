@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Junior Data scientist working in Antwerp, Belgium.
+#### I'm a Junior Data scientist based in Antwerp, Belgium.
 
 ##### NOW
 
