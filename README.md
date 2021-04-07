@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently following an intensive **Artificial Intelligence** training and at **Becode.org**
-- ⚙️ I use daily: `python`, `sci-kit learn`, `pandas`,`numpy`
+- ⚙️ I use daily: `python`, `sci-kit learn`, `flask`,`pandas`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Science and Machine learning**
 - 💬 Ask me about **Data manipulation**, **ML model creation**, **python**
