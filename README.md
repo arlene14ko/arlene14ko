@@ -17,8 +17,16 @@
 - 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
 
-##### Deployed Projects
+##### Deployed ML Projects
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
+
+##### Deployed WebDev Projects
+- 💬 Random Quote Generator. https://app.netlify.com/sites/ap-randomquote/overview
+- 🦠 Covid 19 Tracker. https://trackingcovid-19.netlify.app/
+- 🍛 Food Recipe Website. https://deepfrying.netlify.app/
+- 🍜 Restaurant Website. https://pinoyplate.netlify.app/
+- 🎵 Music Maker App. https://music-maker-app.netlify.app/
+- 🧘 Meditate App. https://meditate-app.netlify.app/
 
 <!--
 **RolyVy/RolyVy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
