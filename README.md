@@ -19,6 +19,7 @@
 
 ##### Deployed ML Projects
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
+- 🎵 Machine Learning Model to predict if there is an anomaly in a machine using a sound file. https://sound-anomaly.herokuapp.com/
 
 ##### WebDev Projects
 - 💬 Random Quote Generator. https://app.netlify.com/sites/ap-randomquote/overview
