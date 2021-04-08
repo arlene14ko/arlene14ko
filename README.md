@@ -20,7 +20,7 @@
 ##### Deployed ML Projects
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
 
-##### Deployed WebDev Projects
+##### WebDev Projects
 - 💬 Random Quote Generator. https://app.netlify.com/sites/ap-randomquote/overview
 - 🦠 Covid 19 Tracker. https://trackingcovid-19.netlify.app/
 - 🍛 Food Recipe Website. https://deepfrying.netlify.app/
