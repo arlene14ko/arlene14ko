@@ -18,7 +18,7 @@
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
 
 ##### Deployed ML Projects
-- 🎵 Machine Learning Model to predict if there is an anomaly in a machine using a sound file. https://codit-usecase.herokuapp.com/
+- 🎵 Machine Learning Model to predict if there is an anomaly in an industrial machine using a sound file. https://codit-usecase.herokuapp.com/
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
 
 ##### WebDev Projects
