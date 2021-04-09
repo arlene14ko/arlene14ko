@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Recently co-created a [machine learning model to predict if an industrial machine will malfunction using sound](https://codit-usecase.herokuapp.com/). (Check my repos!)
+- ✨ Recently co-created a machine learning model to predict if an industrial machine will malfunction using sound. (Check my repos!)
 - 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
 
 ##### BIO
@@ -18,8 +18,8 @@
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
 
 ##### Deployed ML Projects
+- 🎵 Machine Learning Model to predict if there is an anomaly in a machine using a sound file. https://codit-usecase.herokuapp.com/
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
-- 🎵 Machine Learning Model to predict if there is an anomaly in a machine using a sound file. https://sound-anomaly.herokuapp.com/
 
 ##### WebDev Projects
 - 💬 Random Quote Generator. https://app.netlify.com/sites/ap-randomquote/overview
