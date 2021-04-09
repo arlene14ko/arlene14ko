@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Recently co-created a machine learning model to predict if an industrial machine will malfunction using sound. (Check my repos!)
+- ✨ Recently co-created a [machine learning model to predict if an industrial machine will malfunction using sound](https://codit-usecase.herokuapp.com/). (Check my repos!)
 - 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
 
 ##### BIO
