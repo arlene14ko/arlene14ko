@@ -4,6 +4,7 @@
 
 ##### NOW
 
+- ⚙️ Currently doing a project about customer acquisition and churn prediction using machine learning.  
 - ✨ Recently co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound. (Check my repos!)
 - 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
 
