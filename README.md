@@ -14,36 +14,21 @@
 - ⚙️ I use daily: `python`, `sci-kit learn`, `flask`,`pandas`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Science and Machine learning**
-- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **Model deployment**
+- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **Model deployment**, **Web development**
 - 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
 
-##### Deployed ML Projects
+##### Deployed Machine Learning Projects
 - 🎵 Machine Learning Model to predict if there is an anomaly in an industrial machine using a sound file. https://codit-usecase.herokuapp.com/
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
 
-##### WebDev Projects
+##### Deployed Web Development Projects
 - 💬 Random Quote Generator. https://app.netlify.com/sites/ap-randomquote/overview
 - 🦠 Covid 19 Tracker. https://trackingcovid-19.netlify.app/
 - 🍛 Food Recipe Website. https://deepfrying.netlify.app/
 - 🍜 Restaurant Website. https://pinoyplate.netlify.app/
 - 🎵 Music Maker App. https://music-maker-app.netlify.app/
 - 🧘 Meditate App. https://meditate-app.netlify.app/
-
-<!--
-**RolyVy/RolyVy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 **arlene14ko/arlene14ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
