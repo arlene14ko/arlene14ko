@@ -13,12 +13,13 @@
 - 🏢 I'm currently following an intensive **Artificial Intelligence** training at **Becode.org**
 - ⚙️ I use daily: `python`, `sci-kit learn`, `flask`,`pandas`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
-- 🌱 Learning all about **Data Science and Machine learning**
-- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **Model deployment**, **Web development**
+- 🌱 Learning all about **Data Science, Machine learning, Deep Learning**
+- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **NLP**, **Model deployment**, **Web development**
 - 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
 
 ##### Deployed Machine Learning Projects
+- 🏢 Machine Learning Model to predict if a customer is likely to churn. https://predicting-churn.herokuapp.com/
 - 🎵 Machine Learning Model to predict if there is an anomaly in an industrial machine using a sound file. https://codit-usecase.herokuapp.com/
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
 
