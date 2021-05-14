@@ -4,8 +4,9 @@
 
 ##### NOW
 
-- 💬 Currently creating a project about Natural Language Processing (NLP) Text Summarization using HuggingFace Transformers. 
-- ⚙️ Recently co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
+- ✨ Currently creating a pose transformation using deep learning techniques
+- 💬 Recently created a project about Natural Language Processing (NLP) Text Summarization using HuggingFace Transformers. 
+- ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
 - ✨ Co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound. 
 - 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
 
