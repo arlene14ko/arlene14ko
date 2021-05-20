@@ -1,6 +1,6 @@
-### Hi there,  👋
+### Hi there, I am Arlene. 👋
 
-#### I'm a Junior Data Scientist based in Antwerp, Belgium.
+#### A Junior Data Scientist based in Antwerp, Belgium.
 
 ##### NOW
 
