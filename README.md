@@ -35,26 +35,8 @@
 
 
 [![Arlene14ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlene14ko)](https://github.com/arlene14ko/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/arlene14ko/arlene14ko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlene14ko" />
-</a>
-<a href="https://github.com/arlene14ko/arlene14ko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arlene14ko"/>
-</a>
-
-<a href="https://github.com/Arlene14ko/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arlene14ko&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/arlene14ko/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arlene14ko&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   
 
 <!--
 **arlene14ko/arlene14ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
