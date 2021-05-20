@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,  👋
 
 #### I'm a Junior Data Scientist based in Antwerp, Belgium.
 
@@ -32,6 +32,9 @@
 - 🍜 Restaurant Website. https://pinoyplate.netlify.app/
 - 🎵 Music Maker App. https://music-maker-app.netlify.app/
 - 🧘 Meditate App. https://meditate-app.netlify.app/
+
+
+[![Arlene14ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlene14ko)](https://github.com/arlene14ko/github-readme-stats)
 
 <!--
 **arlene14ko/arlene14ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
