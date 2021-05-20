@@ -38,14 +38,46 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
 
-<!--
-**arlene14ko/arlene14ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=informational)
 
-Here are some ideas to get you started:
+## &#x1f4c8; GitHub Stats
 
-- 🔭 I’m currently following an intensive AI Data Science Bootcamp in BeCode ...
-- 🌱 I’m currently learning all the aspects of AI, machine learning, and deep learning ...
-- 💬 I’m looking for a company where I can show and enhance my skills ...
-- 📫 How to reach me: You can send me an email at arlene14ko@gmail.com  ...
-- ⚡ Fun fact:  ...
--->
+<a href="https://github.com/arlene14ko/arlene14ko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlene14ko&hide=java,html,text&langs_count=3" />
+</a>
+<a href="https://github.com/arlene14ko/arlene14ko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arlene14ko&show_icons=true&line_height=27&count_private=true" alt="Arlene's GitHub Stats" />
+</a>
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/superARL_
+[2]: https://github.com/arlene14ko
+[3]: https://www.linkedin.com/in/arlene-postrado/
