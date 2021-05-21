@@ -38,13 +38,13 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Distribution-Anaconda-informational?style=flat&logo=javascript&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=postgresql&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=kubernetes&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Sci-Kit Learn-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-Sci-KitLearn-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=informational)
 
 ## &#x1f4c8; GitHub Stats
 
