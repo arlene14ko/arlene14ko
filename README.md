@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Tools-Sci-KitLearn-informational?style=flat&logo=sci-kitlearnt&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-SciKit-Learn-informational?style=flat&logo=scikit-learnt&logoColor=white&color=informational)
 
 ## &#x1f4c8; GitHub Stats
 
