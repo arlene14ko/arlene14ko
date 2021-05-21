@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Currently creating a project using deep learning techniques for a start up company in Antwerp
+- ✨ Recentlly co-created a project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp
 - 💬 Recently created a project about Natural Language Processing (NLP) Text Summarization using HuggingFace Transformers. 
 - ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
 - ✨ Co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound. 
