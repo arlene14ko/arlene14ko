@@ -26,7 +26,7 @@
 - 🌍 Machine Learning Model to predict the salary based on the years of experience. https://predict-salary-101.herokuapp.com/
 
 ##### Deployed Web Development Projects
-- 💬 Random Quote Generator. https://app.netlify.com/sites/ap-randomquote/overview
+- 💬 Random Quote Generator. https://ap-randomquote.netlify.app/
 - 🦠 Covid 19 Tracker. https://trackingcovid-19.netlify.app/
 - 🍛 Food Recipe Website. https://deepfrying.netlify.app/
 - 🍜 Restaurant Website. https://pinoyplate.netlify.app/
