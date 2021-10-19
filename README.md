@@ -1,6 +1,6 @@
 ### Hi there, I am Arlene. 👋
 
-#### A Junior Data Scientist based in Antwerp, Belgium.
+#### A Junior Data Scientist based in Antwerp, Belgium. Let's connect!
 
 ##### NOW
 - ✨ Fine tuned a pretrained neural network using transfer learning to remove the background from images.
