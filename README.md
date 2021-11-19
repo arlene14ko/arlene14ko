@@ -1,24 +1,23 @@
 ### Hi there, I am Arlene. 👋
 
-#### A Junior Data Scientist based in Antwerp, Belgium. Let's connect!
-
-##### NOW
-- ✨ Fine tuned a pretrained neural network using transfer learning to remove the background from images.
-- ✨ Co-created a project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp
-- 💬 Recently created a project about Natural Language Processing (NLP) Text Summarization using HuggingFace Transformers. 
-- ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
-- ✨ Co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound. 
-- 🔭 Currently learning about unsupervised learning, data clustering, and model deployment.
+#### A Data Engineer based in Antwerp, Belgium. Let's connect!
 
 ##### BIO
 
-- 🏢 I'm currently following an intensive **Artificial Intelligence** training at **Becode.org**
-- ⚙️ I use daily: `python`, `sci-kit learn`, `flask`,`pandas`
+- 🏢 Currently working as a  **Cloud Data Consultant** at **DexMach**
+- ⚙️ I use daily: `Microsoft Azure`, `Python`, `Data Lake`, `Databricks`, `Data Factory`, `SQL`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
-- 🌱 Learning all about **Data Science, Machine learning, Deep Learning**
-- 💬 Ask me about **Data manipulation**, **ML model creation**, **python**, **NLP**, **Model deployment**, **Web development**
+- 🌱 Learning all about **Data Engineering, Data Science, and Machine learning**
+- 💬 Ask me about **Data Warehousing**, **Azure**, **Python**, **Databricks**, **SQL**, **Web development**
 - 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
+
+##### Projects I have Worked On
+- ✨ Fine tuned a pretrained neural network using transfer learning to remove the background from images.
+- ✨ Co-created a project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp
+- 💬 Created a project about Natural Language Processing (NLP) Text Summarization using HuggingFace Transformers. 
+- ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
+- ✨ Co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound.
 
 ##### Deployed Machine Learning Projects
 - 🏢 Machine Learning Model to predict if a customer is likely to churn. https://predicting-churn.herokuapp.com/
@@ -33,8 +32,6 @@
 - 🎵 Music Maker App. https://music-maker-app.netlify.app/
 - 🧘 Meditate App. https://meditate-app.netlify.app/
 
-
-   
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
