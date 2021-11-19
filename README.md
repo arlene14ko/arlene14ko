@@ -1,6 +1,6 @@
 ### Hi there, I am Arlene. 👋
 
-#### A Data Engineer based in Antwerp, Belgium. Let's connect!
+#### A Data Engineer based in Antwerp, Belgium. Let's connect on [LinkedIn](https://www.linkedin.com/in/arlene-postrado/)!
 
 ##### BIO
 
