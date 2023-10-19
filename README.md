@@ -43,15 +43,7 @@
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=informational)
 
-## &#x1f4c8; GitHub Stats
 
-
-<a href="https://github.com/arlene14ko/arlene14ko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arlene14ko&show_icons=true&line_height=27&count_private=true" alt="Arlene's GitHub Stats" />
-</a>
-<a href="https://github.com/arlene14ko/arlene14ko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlene14ko&hide=java,html,text&langs_count=3" />
-</a>
 
 <!-- links to social media icons -->
 
