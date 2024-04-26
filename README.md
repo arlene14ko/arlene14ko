@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 Currently working as a  **Cloud Data Consultant** at **DexMach**
+- 🏢 Currently working as a  **Data Engineer** at **Manuchar NV**
 - ⚙️ I use daily: `Microsoft Azure`, `Python`, `Data Lake`, `Databricks`, `Data Factory`, `SQL`
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Engineering, Data Science, and Machine learning**
