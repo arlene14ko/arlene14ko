@@ -9,7 +9,7 @@
 - 🌍 I'm mostly active within the **Python and Machine Learning Community**
 - 🌱 Learning all about **Data Engineering, Data Science, and Machine learning**
 - 💬 Ask me about **Data Warehousing**, **Azure**, **Python**, **Databricks**, **SQL**, **Web development**
-- ✨ I am a **[BeCode](https://becode.org/learn/ai-bootcamp/) alumni**. Batch: **Becode Data Science/AI Theano 2.27**
+- ✨ I am a **[BeCode](https://becode.org/) alumni**. Batch: **Becode Data Science/AI Theano 2.27**
 - 📫 Reach me at: [arlene14ko@gmail.com](arlene14ko@gmail.com)
 - ⚡️ Fun fact: I created a recipe website to show my love for cooking. (It's in my repos!)
 
