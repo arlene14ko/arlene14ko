@@ -20,6 +20,8 @@
 - ⚙️ Co-created a project about [customer churn prediction](https://predicting-churn.herokuapp.com/) to help predict if a customer is likely to churn.  
 - ✨ Co-created a [machine learning model](https://codit-usecase.herokuapp.com/) to predict if an industrial machine will malfunction using sound.
 
+
+<!-- links to social media icons 
 ##### Deployed Machine Learning Projects
 - 🏢 Machine Learning Model to predict if a customer is likely to churn. https://predicting-churn.herokuapp.com/
 - 🎵 Machine Learning Model to predict if there is an anomaly in an industrial machine using a sound file. https://codit-usecase.herokuapp.com/
@@ -32,7 +34,7 @@
 - 🍜 Restaurant Website. https://pinoyplate.netlify.app/
 - 🎵 Music Maker App. https://music-maker-app.netlify.app/
 - 🧘 Meditate App. https://meditate-app.netlify.app/
-
+-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
